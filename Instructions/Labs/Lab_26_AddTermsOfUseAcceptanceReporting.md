@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '26 - 添加使用条款和接受报告'
     learning path: '04'
