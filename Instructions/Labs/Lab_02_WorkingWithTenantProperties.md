@@ -25,7 +25,7 @@ lab:
 
 1. 在 **“名称”** 框中，更改租户名称。例如，可将 Contoso Marketing Company 更改为 Contoso Marketing Company 2。
 
-1. 选择 “保存”** 以更新租户属性。
+1. 选择 **“保存”** 以更新租户属性。
 
 ## 查找与租户关联的国家或地区
 
@@ -80,4 +80,4 @@ Microsoft 强烈建议添加全局隐私联系人和组织的隐私声明，以�
 
     ![带有消息的 B2B 协作“查看权限”框](./media/active-directory-no-privacy-statement-or-contact.png)
 
-1. 选择 **“保存”**。
+3. 选择 **“保存”**。

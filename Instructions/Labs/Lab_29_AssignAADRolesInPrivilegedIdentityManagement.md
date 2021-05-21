@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: '29 - 针对 Azure AD 角色配置 Privileged Identity Management”
+    title: '29 - 在 Privileged Identity Management 中分配 Azure AD 角色'
     learning path: '04'
     module: '模块 03 - 计划和实现权利管理'
 ---
@@ -88,7 +88,7 @@ Azure AD Privileged Identity Management (PIM) 服务还允许特权角色管理�
 >[!提示]
 >转到 [https://docs.microsoft.com/zh-cn/azure/active-directory/roles/admin-units-manage](https://docs.microsoft.com/en-us/azure/active-directory/roles/admin-units-manage)，了解有关管理单元范围类型的详细信息。
 
-1. 与在不具有限制的范围内分配角色一样，你需要添加成员并完成设置选项。现在选择 **“取消”**。
+5. 与在不具有限制的范围内分配角色一样，你需要添加成员并完成设置选项。现在选择 **“取消”**。
 
 ## 更新或删除现有的角色分配
 

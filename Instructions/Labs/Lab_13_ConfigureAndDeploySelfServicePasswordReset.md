@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: '13 - 启用 Azure AD 多重身份验证'
+    title: '13 - 配置和部署自助式密码重置'
     learning path: '02'
     module: '模块 02 - 管理用户身份验证'
 ---

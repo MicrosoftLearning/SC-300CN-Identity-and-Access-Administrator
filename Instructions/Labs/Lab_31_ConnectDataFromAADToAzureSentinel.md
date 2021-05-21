@@ -54,7 +54,7 @@ lab:
 
 1. 在 Azure Sentinel 的左侧导航菜单中的 **“配置”** 下，选择 **“数据连接器”**。
 
-1. 在 **“数据连接器”v 列表中，选择 **“Azure Active Directory”**，然后选择 **“打开连接器页”**。
+1. 在 **“数据连接器”** 列表中，选择 **“Azure Active Directory”**，然后选择 **“打开连接器页”**。
 
     ![屏幕图像显示“数据连接器”边栏选项卡并突出显示 “Azure Active Directory 连接器”和“打开连接器页”](./media/lp4-mod4-sentinel-add-aad-connector.png)
 

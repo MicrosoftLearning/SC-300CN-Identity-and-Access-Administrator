@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: '14 - 启用 Azure AD 多重身份验证'
+    title: '14 - 使用安全默认值'
     learning path: '02'
     module: '模块 03 - 计划、实现和管理条件访问'
 ---
