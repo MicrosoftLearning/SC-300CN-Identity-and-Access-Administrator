@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '13 - 配置和部署自助式密码重置'
     learning path: '02'
