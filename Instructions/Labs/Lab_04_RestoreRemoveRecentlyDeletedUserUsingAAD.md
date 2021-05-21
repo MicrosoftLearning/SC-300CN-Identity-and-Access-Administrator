@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '04 - 还原已删除的用户'
     learning path: '01'
