@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '19 - 配置 Azure AD 多重身份验证注册策略'
     learning path: '02'
