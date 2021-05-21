@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '22 - 注册应用程序'
     learning path: '03'
