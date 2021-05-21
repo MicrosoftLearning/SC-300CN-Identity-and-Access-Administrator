@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '18 - 启用登录和用户风险策略'
     learning path: '02'
