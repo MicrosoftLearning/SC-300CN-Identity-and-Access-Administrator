@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '10 - 批量邀请来宾用户'
     learning path: '01'
