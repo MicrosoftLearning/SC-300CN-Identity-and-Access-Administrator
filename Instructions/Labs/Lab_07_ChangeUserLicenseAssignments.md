@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '07 - 更改用户帐户许可证分配'
     learning path: '01'
