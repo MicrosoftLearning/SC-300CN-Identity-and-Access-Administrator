@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '09 - 将来宾用户添加到目录'
     learning path: '01'
