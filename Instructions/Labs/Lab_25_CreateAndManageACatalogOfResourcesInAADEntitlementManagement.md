@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '25 - 在 Azure AD 权利管理中创建和管理资源目录'
     learning path: '04'

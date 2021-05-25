@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '20 - 实现应用的访问管理'
     learning path: '03'

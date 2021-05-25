@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '14 - 使用安全默认值'
     learning path: '02'

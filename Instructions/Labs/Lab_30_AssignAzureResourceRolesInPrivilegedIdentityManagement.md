@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '30 - 在 Privileged Identity Management 中分配 Azure 资源角色'
     learning path: '04'
