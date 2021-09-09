@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '31 - 将数据从 Azure Active Directory 连接到 Azure Sentinel'
     learning path: '04'
@@ -31,7 +31,7 @@ lab:
 
 1. 搜索 **Azure Sentinel** 并将其选中。
 
-1. 在 “Azure Sentinel 工作区”边栏选项卡中，选择 **“+ 添加”**。
+1. 在“Azure Sentinel 工作区”边栏选项卡中，选择“**+ 创建**”。
 
 1. 如果已有 Azure Sentinel 工作区，则可以选择该工作区，并继续执行下一个任务。
 
