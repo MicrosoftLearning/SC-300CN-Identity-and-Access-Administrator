@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '16 - 配置身份验证会话控件'
     learning path: '02'
