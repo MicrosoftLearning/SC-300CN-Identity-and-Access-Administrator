@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '07 - 更改用户帐户许可证分配'
     learning path: '01'
@@ -9,48 +9,44 @@ lab:
 
 ## 实验室场景
 
-组织中的一些用户帐户将不会获得其分配的许可证中的所有可用产品或将需要其许可证分配的更新或附加。需要确保能够在 Azure AD 中更新用户帐户的许可证分配。
+组织中的一些用户帐户将不会获得其分配的许可证中的所有可用产品，或者将需要更新或补充其许可证分配。你需要确保能够在 Azure AD 中更新用户帐户的许可证分配。
 
 #### 预计用时：5 分钟
 
-## 在 Azure Active Directory 中创建新用户
+## 练习 1 - 向用户帐户添加 Windows 10 许可证
 
-1. 浏览到 [https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview]( https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview).
+### 任务 1 - 在 Azure Active Directory 中查找未获许可的用户
 
-1. 在左侧导航栏的 **“管理”** 下，选择 **“用户”**。
+1. 浏览到 [https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview]( https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview)。
 
-1. 在“用户”边栏选项卡的菜单中，选择 **“新建用户”**。
+2. 在左侧导航栏的“**管理**”下，选择“**用户**”。
 
-1. 使用以下信息创建用户：
+3. 在“用户”边栏选项卡的搜索框中输入“**Raul**”。
 
-    | **设置**| **值**|
-    | :--- | :--- |
-    | 用户名| Dominique|
-    | 姓名| Dominique Koch|
-    | 名字| Dominique|
-    | 姓氏| Koch|
-    | 密码| Pass@word1|
-    | 使用位置| *选择首选使用位置*|
+4. 单击“**Raul Razo**”
+5. 查看 Raul 的个人资料并确保他设置了“使用位置”。
 
-    >警告
-    >若要向用户分配许可证，必须为用户分配使用位置。
+    **警告** - 若要将许可证分配给某个用户，该用户必须分配有使用位置。
 
-1. 完成后，验证 Chris Green 的帐户是否显示在 **“所有用户”** 列表中。
+6. 单击左侧菜单中的“**许可证**”菜单项。
+7. 确保 Rual 的状态为“未找到许可证分配”。
 
-## 更新用户许可证分配
+### 任务 2 - 更新用户许可证分配
 
-1. 浏览到 [https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview]( https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview).
+1. 浏览到 [https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview]( https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview)。
 
-1. 在左侧导航栏的 **“管理”** 下，选择 **“用户”**
+2. 在左侧导航栏的“**管理**”下，选择“**用户**”
 
-1. 在“用户”边栏选项卡中，选择 **“Dominique Koch”**。
+3. 在“用户”边栏选项卡上，选择“**Raul Razo**”。
 
-1. 在左侧导航栏中，选择 **“许可证”**。
+4. 在左侧导航栏中，选择“**许可证**”。
 
-1. 选择“**+分配**”按钮。 
+5. 选择“**+ 分配**”按钮。 
 
-1. 在“更新许可证分配”边栏选项卡上，选中单个或多个许可证的复选框。
+6. 在“更新许可证分配”边栏选项卡上，选中“**Windows 10 企业版 E3**”许可证复选框。
 
     ![显示“更新许可证分配”页的屏幕图像，其中突出显示许可证选项](./media/lp1-mod2-assign-user-license-options.png)
 
-1. 完成后选择 **“保存”**。
+7. 完成后选择“**保存**”。
+8. 在屏幕顶部单击`Home > Contoso Marketing > User >` “**Raul Razo**”
+9. 请注意，许可证已分配。
