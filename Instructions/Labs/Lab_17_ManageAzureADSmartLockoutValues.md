@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '17 - 管理 Azure AD 智能锁定值'
     learning path: '02'
