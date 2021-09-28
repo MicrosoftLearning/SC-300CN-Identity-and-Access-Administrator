@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '29 - 针对 Azure AD 角色配置 Privileged Identity Management'
     learning path: '04'
