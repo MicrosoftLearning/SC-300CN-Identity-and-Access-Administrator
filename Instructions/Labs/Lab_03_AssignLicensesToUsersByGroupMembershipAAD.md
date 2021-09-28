@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '03 - 使用组成员身份分配许可证'
     learning path: '01'
