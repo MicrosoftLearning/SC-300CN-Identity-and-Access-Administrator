@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '02 - 使用租户属性'
     learning path: '01'
