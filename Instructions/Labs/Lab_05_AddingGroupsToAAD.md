@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '05 - 向 Azure AD 添加组'
     learning path: '01'

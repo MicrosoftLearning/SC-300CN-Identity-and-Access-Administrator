@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '12 - 启用 Azure AD 多重身份验证'
     learning path: '02'

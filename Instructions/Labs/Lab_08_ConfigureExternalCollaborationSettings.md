@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '08 - 配置外部协作设置'
     learning path: '01'

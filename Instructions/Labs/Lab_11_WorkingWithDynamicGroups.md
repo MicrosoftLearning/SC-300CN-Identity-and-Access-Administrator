@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '11 - 使用动态组'
     learning path: '01'

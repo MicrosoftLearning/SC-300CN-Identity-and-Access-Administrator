@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '31 - 将数据从 Azure Active Directory (Azure AD) 连接到 Azure Sentinel'
     learning path: '04'
