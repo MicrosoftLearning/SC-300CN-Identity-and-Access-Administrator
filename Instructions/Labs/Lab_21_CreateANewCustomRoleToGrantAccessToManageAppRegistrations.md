@@ -36,12 +36,12 @@ lab:
 9. 在结果中选择“**管理**”权限，然后选择“**下一步**”。
 
     ```
-       microsoft.directory/servicePrincipals/managePasswordSingleSignOnCredentials - 管理密码单一登录凭据或服务主体。
-       microsoft.directory/servicePrincipals/synchronizationCredentials/manage - 管理应用程序预配机密和凭据。
+       microsoft.directory/servicePrincipals/managePasswordSingleSignOnCredentials  -   Manage password single sign-on credentials or service principals.
+       microsoft.directory/servicePrincipals/synchronizationCredentials/manage    -   Manage application provisioning secrets and credentials.
     ```
 
     ![显示新建自定义角色的“权限”选项卡的屏幕图像，其中突出显示了搜索、管理权限以及“下一步”](./media/lp3-mod1-custom-role-permissions.png)
 
-    为什么选择这两项 - 对于应用程序预配来说，这两项是为正在创建的应用程序或服务主体启用和强制执行单一登录，并且能够将企业应用程序分配给一组用户或组所需的最低权限****。  也可以授予其他权限。  要获取可用权限的完整列表，请访问 `https://docs.microsoft.com/azure/active-directory/roles/custom-enterprise-app-permissions`。
+    **为什么选择这两项** - 对于应用程序预配来说，这两项是为正在创建的应用程序或服务主体启用和强制执行单一登录，并且能够将企业应用程序分配给一组用户或组所需的最低权限。  也可以授予其他权限。  要获取可用权限的完整列表，请访问 `https://docs.microsoft.com/azure/active-directory/roles/custom-enterprise-app-permissions`。
 
 10. 查看更改，然后选择“**创建**”。

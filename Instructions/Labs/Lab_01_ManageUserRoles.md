@@ -45,7 +45,7 @@ lab:
 1. 启动一个新的 InPrivate 浏览器窗口。
 2. 以 Chris Green 的身份打开 Azure 门户 ([https://portal.azure.com](https://portal.azure.com))。
 
-    | 设置****| 值****|
+    | **设置**| **值** |
     | :--- | :--- |
     | 用户名| ChrisG@`your domain name.com`|
     | 密码| Pass@word1|
@@ -76,14 +76,14 @@ lab:
 3. 单击菜单“管理”部分下的“**用户**”。
 4. 单击“**Chris Green**”帐户。
 5. 从“管理”菜单中选择“**分配的角色**”。
-6. 单击“**+ 添加分配”并标记**`Application administrator`角色。
+6. 单击“**+ 添加分配**”并标记`Application administrator`角色。
 7. 单击“**添加**”
 
     ![“分配的角色”页 - 显示所选角色](./media/directory-role-select-role.png)
 
 8. 单击“**刷新**”按钮。
 
-     ##### 新分配的应用程序管理员角色显示在用户的“分配的角色”页面上****。
+     ##### 新分配的应用程序管理员角色显示在用户的“**分配的角色**”页面上。
 
 ### 任务 2 - 检查应用程序权限
 

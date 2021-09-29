@@ -15,7 +15,7 @@ lab:
 
 ## 练习 1 - 设置条件访问策略以阻止 DebraB 访问 Yammer
 
-### 任务 1 -- 确认 DebraB 可以访问 Yammer
+### 任务 1 - 确认 DebraB 可以访问 Yammer
 
 1. 启动一个新的 InPrivate 浏览器窗口。
 2. 连接到 [https://www.office.com](https://www.office.com) 
@@ -23,7 +23,7 @@ lab:
 
     | 设置 | 值 |
     | :--- | :--- |
-    | 用户名 | 'DebraB@' `<<your lab domain>>.onmicrosoft.com`**** |
+    | 用户名 | **DebraB@** `<<your lab domain>>.onmicrosoft.com` |
     | 密码 | **pass@word123** |
     
 4. 单击 Yammer 图标以查看它是否正确加载。
