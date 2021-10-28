@@ -51,7 +51,7 @@ lab:
 
 ### 任务 2 - 验证是否已添加成员
 
-1. 单击“**主页**” `> Contoso Marketing > Groups > SC300-myDynamicGroup`。
+1. 单击 `Azure Active Directory` **主页**。
 2. 启动 **Azure Active Directory**。
 3. 在“**管理**”菜单中单击“**组**”。
 4. 在筛选框中键入“**SC300**”，此时将列出新创建的组。

@@ -74,10 +74,14 @@ Azure Active Directory 条件访问是一项 Azure AD 高级功能，可用于�
 
 你应该测试条件访问策略，以确保它们按预期工作。
 
-1. 打开一个新的浏览器标签页，然后浏览到 [https://www.yammer.com/office365](https://www.yammer.com/office365)。
+1. 打开一个新的“Inprivate”浏览器选项卡，然后浏览到 [https://www.yammer.com/office365](https://www.yammer.com/office365)。
+     - 出现提示时，以 DebraB 身份登录：
 
-     应传递你的凭据。
- 
+    | 设置 | 值 |
+    | :--- | :--- |
+    | 用户名 | **DebraB@** `<<your lab domain>>.onmicrosoft.com` |
+    | 密码 | **pass@word123** |
+      
 2. 验证你已成功阻止访问 Microsoft Yammer。
 
     ![显示由于启用了条件访问策略而被阻止的资源访问的屏幕图像](./media/lp2-mod3-test-conditional-access-policy.png)

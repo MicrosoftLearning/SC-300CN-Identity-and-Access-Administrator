@@ -80,7 +80,7 @@ lab:
     | 用户名 | DeliaD@ <<you azure domain>>|
     | 密码| pass@word123|
 
-4. 你应会连接到 Office.com 网站，但会看到一条消息，该消息表示你没有许可证。
+4. 你应连接到 Office.com 网站，然后未看见关于许可证的消息。所有的 Office 应用程序都可在左侧获取。
 
     ![Office.com 网站的屏幕图像，其中 Delia Dennis 已登录，并且办公应用程序可用，因为分配了许可证。](./media/delia-office-license.png)
     
