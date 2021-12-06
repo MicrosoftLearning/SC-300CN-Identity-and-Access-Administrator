@@ -15,7 +15,7 @@ lab:
 
 ## 批量邀请来宾用户
 
-1. 使用组织中的用户管理员的帐户登录到 [https://portal.azure.com](https://portal.azure.com)。
+1. 以全局管理员身份登录到 [https://portal.azure.com](https://portal.azure.com)。
 
 1. 在导航窗格中，选择 **“Azure Active Directory”**。
 
