@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '29 - 针对 Azure AD 角色配置 Privileged Identity Management'
     learning path: '04'
@@ -67,7 +67,7 @@ Azure AD Privileged Identity Management (PIM) 服务还允许特权角色管理�
 5. 关闭“**欢迎使用 Azure**”对话框。
 6. 从“**搜索资源、服务和文档**”栏中查找 Azure Active Directory，然后打开边栏选项卡。
 7. 在“**概述**”页上，查找“**我的源**”。
-8. 选择 **Miriam Graham** 的名字；此操作会打开 Miriam 的“个人资料”页面。
+8. 选择 Miriam Graham 的名字下的“**查看个人资料**”；该操作会打开 Miriam 的个人资料页面。
 9. 选择“**分配的角色**”，然后选择“**符合条件的分配**”。
 10. 请注意，Miriam 现在可以使用“**合规性管理员**”角色。
 
