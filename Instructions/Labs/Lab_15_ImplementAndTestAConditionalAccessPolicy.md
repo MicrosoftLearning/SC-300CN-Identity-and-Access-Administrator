@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '15 - 实现和测试条件访问策略'
     learning path: '02'
