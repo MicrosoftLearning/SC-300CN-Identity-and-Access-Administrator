@@ -17,14 +17,14 @@ lab:
 
 ### 任务 1 - 检查 Delia Dennis 是否可以访问 Office 365
 
-1. 启动浏览器窗口。
+1. 启动一个新的 InPrivate 浏览器窗口。
 2. 连接到 [https://www.office.com](https://www.office.com)。
 3. 单击“登录”并以 Delia Dennis 的身份进行连接。
 
     | **设置**| **值**|
     | :--- | :--- |
     | 用户名 | DeliaD@ <<you azure domain>>|
-    | 密码| pass@word123|
+    | 密码| 从资源中输入全局管理员的密码|
 
 4. 你应会连接到 Office.com 网站，但会看到一条消息，该消息表示你没有许可证。
 
@@ -71,14 +71,14 @@ lab:
 
 ### 任务 4 - 确认 Office 365 许可证
 
-1. 启动浏览器窗口。
+1. 启动一个新的 InPrivate 浏览器窗口。
 2. 连接到 [https://www.office.com](https://www.office.com)。
 3. 单击“登录”并以 Delia Dennis 的身份进行连接。
 
     | **设置**| **值**|
     | :--- | :--- |
     | 用户名 | DeliaD@ <<you azure domain>>|
-    | 密码| pass@word123|
+    | 密码| 从资源中输入全局管理员的密码|
 
 4. 你应连接到 Office.com 网站，然后未看见关于许可证的消息。所有的 Office 应用程序都可在左侧获取。
 

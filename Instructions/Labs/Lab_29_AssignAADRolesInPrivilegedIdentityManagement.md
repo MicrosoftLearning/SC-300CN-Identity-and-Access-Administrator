@@ -62,7 +62,7 @@ Azure AD Privileged Identity Management (PIM) 服务还允许特权角色管理�
 | 字段 | 值 |
 | :--- | :--- |
 | 用户名 | **MiriamG@** `<<your domain.onmicrosoft.com>>` |
-| 密码 | pass@word123 |
+| 密码 |  输入租户的管理员密码（请参阅“实验室资源”选项卡以检索租户管理员密码） |
 
 5. 关闭“**欢迎使用 Azure**”对话框。
 6. 从“**搜索资源、服务和文档**”栏中查找 Azure Active Directory，然后打开边栏选项卡。

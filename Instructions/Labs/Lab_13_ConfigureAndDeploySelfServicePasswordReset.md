@@ -67,7 +67,7 @@ lab:
 
     这是为了确保系统能提示你进行用户身份验证。
 
-2. 以 **AlexW@** `<<organization-domain-name>>.onmicrosoft.com` 身份登录，密码 = **pass@word123**。
+2. 以 **AlexW@** `<<organization-domain-name>>.onmicrosoft.com` 的身份进行登录，其密码为租户的管理员密码（请参阅“实验室资源”选项卡以检索管理员密码）。
 
     **备注** - 请将“组织域名”替换为你的域名。
 
