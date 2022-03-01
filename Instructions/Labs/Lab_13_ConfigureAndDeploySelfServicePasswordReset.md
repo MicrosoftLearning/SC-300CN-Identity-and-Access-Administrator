@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '13 - 启用 Azure AD 自助式密码重置'
     learning path: '02'
